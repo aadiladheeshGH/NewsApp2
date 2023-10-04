@@ -1,0 +1,302 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "10A993C8-4435-45F7-91CC-50E1CF40A470"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B6F76986-4473-4DCB-9591-5AE4FE1C11CB"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "News App 2/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "23"
+            endingLineNumber = "23"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "B6F76986-4473-4DCB-9591-5AE4FE1C11CB - bf4b9497bbe6a1b1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "News_App_2.ViewController.viewDidLoad() -&gt; ()"
+                  moduleName = "News App 2"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/aadil/News%20App%203/News%20App%202/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "23"
+                  endingLineNumber = "23"
+                  offsetFromSymbolStart = "752">
+               </Location>
+               <Location
+                  uuid = "B6F76986-4473-4DCB-9591-5AE4FE1C11CB - bf4b9497bbe6a1b1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "News_App_2.ViewController.viewDidLoad() -&gt; ()"
+                  moduleName = "News App 2"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/aadil/News%20App%203/News%20App%202/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "23"
+                  endingLineNumber = "23"
+                  offsetFromSymbolStart = "760">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "44DF80D6-D349-47C8-BFF7-ACD7C7A50AE2"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "News App 2/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "45"
+            endingLineNumber = "45"
+            landmarkName = "fetchData(at:completion:)"
+            landmarkType = "9">
+            <Locations>
+               <Location
+                  uuid = "44DF80D6-D349-47C8-BFF7-ACD7C7A50AE2 - ed4f04ee5a7fac6a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in fetchData(at: Foundation.URL, completion: () -&gt; ()) -&gt; ()"
+                  moduleName = "News App 2"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/aadil/News%20App%203/News%20App%202/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "43"
+                  endingLineNumber = "43"
+                  offsetFromSymbolStart = "352">
+               </Location>
+               <Location
+                  uuid = "44DF80D6-D349-47C8-BFF7-ACD7C7A50AE2 - ed4f04ee5a7fac28"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in fetchData(at: Foundation.URL, completion: () -&gt; ()) -&gt; ()"
+                  moduleName = "News App 2"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/aadil/News%20App%203/News%20App%202/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "45"
+                  endingLineNumber = "45"
+                  offsetFromSymbolStart = "488">
+               </Location>
+               <Location
+                  uuid = "44DF80D6-D349-47C8-BFF7-ACD7C7A50AE2 - ed4f04ee5a7fac28"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in fetchData(at: Foundation.URL, completion: () -&gt; ()) -&gt; ()"
+                  moduleName = "News App 2"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/aadil/News%20App%203/News%20App%202/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "45"
+                  endingLineNumber = "45"
+                  offsetFromSymbolStart = "444">
+               </Location>
+               <Location
+                  uuid = "44DF80D6-D349-47C8-BFF7-ACD7C7A50AE2 - ed4f04ee5a7fac28"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in fetchData(at: Foundation.URL, completion: () -&gt; ()) -&gt; ()"
+                  moduleName = "News App 2"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/aadil/News%20App%203/News%20App%202/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "45"
+                  endingLineNumber = "45"
+                  offsetFromSymbolStart = "472">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "2B55CF0B-8CDA-4AB5-8D0B-0654F33624AA"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "News App 2/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "12"
+            endingLineNumber = "12"
+            landmarkName = "ViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "2B55CF0B-8CDA-4AB5-8D0B-0654F33624AA - 70fe6b570295fb71"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "News_App_2.ViewController.newsData.getter : Swift.Array&lt;News_App_2.Article&gt;"
+                  moduleName = "News App 2"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/aadil/News%20App%203/News%20App%202/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "88">
+               </Location>
+               <Location
+                  uuid = "2B55CF0B-8CDA-4AB5-8D0B-0654F33624AA - 761d785d9f37c77d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "News_App_2.ViewController.newsData.setter : Swift.Array&lt;News_App_2.Article&gt;"
+                  moduleName = "News App 2"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/aadil/News%20App%203/News%20App%202/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "112">
+               </Location>
+               <Location
+                  uuid = "2B55CF0B-8CDA-4AB5-8D0B-0654F33624AA - e79071ac78f1786c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "News_App_2.ViewController.newsData.modify : Swift.Array&lt;News_App_2.Article&gt;"
+                  moduleName = "News App 2"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/aadil/News%20App%203/News%20App%202/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "0">
+               </Location>
+               <Location
+                  uuid = "2B55CF0B-8CDA-4AB5-8D0B-0654F33624AA - cfefab6430def18a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "News_App_2.ViewController.newsData.modify : Swift.Array&lt;News_App_2.Article&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "News App 2"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/aadil/News%20App%203/News%20App%202/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "16">
+               </Location>
+               <Location
+                  uuid = "2B55CF0B-8CDA-4AB5-8D0B-0654F33624AA - a4b01ad8a5682da2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "News_App_2.ViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; News_App_2.ViewController"
+                  moduleName = "News App 2"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/aadil/News%20App%203/News%20App%202/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "116">
+               </Location>
+               <Location
+                  uuid = "2B55CF0B-8CDA-4AB5-8D0B-0654F33624AA - 300821ceff664a31"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "News_App_2.ViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;News_App_2.ViewController&gt;"
+                  moduleName = "News App 2"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/aadil/News%20App%203/News%20App%202/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "96">
+               </Location>
+               <Location
+                  uuid = "2B55CF0B-8CDA-4AB5-8D0B-0654F33624AA - bb1f16f292229785"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "News_App_2.ViewController.newsData.getter : Swift.Array&lt;News_App_2.NewsData&gt;"
+                  moduleName = "News App 2"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/aadil/News%20App%203/News%20App%202/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "88">
+               </Location>
+               <Location
+                  uuid = "2B55CF0B-8CDA-4AB5-8D0B-0654F33624AA - a02f004b7dbf7791"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "News_App_2.ViewController.newsData.setter : Swift.Array&lt;News_App_2.NewsData&gt;"
+                  moduleName = "News App 2"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/aadil/News%20App%203/News%20App%202/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "112">
+               </Location>
+               <Location
+                  uuid = "2B55CF0B-8CDA-4AB5-8D0B-0654F33624AA - 7d390c77204b2f80"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "News_App_2.ViewController.newsData.modify : Swift.Array&lt;News_App_2.NewsData&gt;"
+                  moduleName = "News App 2"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/aadil/News%20App%203/News%20App%202/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "0">
+               </Location>
+               <Location
+                  uuid = "2B55CF0B-8CDA-4AB5-8D0B-0654F33624AA - 6593fbed2d16a694"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "News_App_2.ViewController.newsData.modify : Swift.Array&lt;News_App_2.NewsData&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "News App 2"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/aadil/News%20App%203/News%20App%202/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "16">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
